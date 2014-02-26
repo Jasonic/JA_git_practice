@@ -1,0 +1,7 @@
+hello.txt
+
+This file is just  to help me learn git
+
+...
+ok I just pushed this to github
+ and am now adding these notes
